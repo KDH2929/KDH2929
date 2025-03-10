@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 ### 기술 스택  
 
 <p align="left">
+  <!-- Game Development -->
   <span>
     <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" height="30">
   </span>
@@ -36,6 +37,30 @@ Here are some ideas to get you started:
   </span>
   <span>
     <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131?style=flat-square&logo=unrealengine&logoColor=white" height="30">
+  </span>
+  <br>
+
+  <!-- AI & Machine Learning -->
+  <span>
+    <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="30">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/TensorFlow(Keras)-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="30">
+  </span>
+  <br>
+
+  <!-- Cloud & DevOps -->
+  <span>
+    <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="30">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white" height="30">
+  </span>
+  <span>
+    <img src="https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white" height="30">
   </span>
 </p>
 
