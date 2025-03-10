@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wlffjt2929)](https://solved.ac/wlffjt2929)
-<img src="https://img.shields.io/badge/C++-#00599C?style=flat-square&logo=cplusplus&logoColor=white/>
+<img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" />
+
