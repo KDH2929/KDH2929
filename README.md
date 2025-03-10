@@ -32,6 +32,7 @@ Here are some ideas to get you started:
   <span>
     <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" height="30">
   </span>
+  
   <span>
     <img src="https://img.shields.io/badge/OpenGL-%23265487?style=flat-square&logo=opengl&logoColor=white" height="30">
   </span>
@@ -40,10 +41,12 @@ Here are some ideas to get you started:
   </span>
   <br>
 
-  <!-- AI & Machine Learning -->
   <span>
     <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="30">
   </span>
+
+<!--
+  
   <span>
     <img src="https://img.shields.io/badge/TensorFlow(Keras)-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30">
   </span>
@@ -51,8 +54,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="30">
   </span>
   <br>
+-->
 
-  <!-- Cloud & DevOps -->
+
   <span>
     <img src="https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazonaws&logoColor=white" height="30">
   </span>
