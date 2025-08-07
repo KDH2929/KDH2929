@@ -40,7 +40,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Unreal%20Engine-%23313131?style=flat-square&logo=unrealengine&logoColor=white" height="30">
   </span>
   <span>
-  <img src="https://img.shields.io/badge/Unity-%23000000?style=flat-square&logo=unity&logoColor=white" height="30">
+  <img src="https://img.shields.io/badge/DirectX12-%23007ACC?style=flat-square" height="30">
 </span>
 
   <br>
