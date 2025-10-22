@@ -23,12 +23,12 @@ Here are some ideas to get you started:
   </a>
 </p>
 
----
+
+<!--
 
 ### 기술 스택  
 
 <p align="left">
-  <!-- Game Development -->
   <span>
     <img src="https://img.shields.io/badge/C++-%2300599C?style=flat-square&logo=cplusplus&logoColor=white" height="30">
   </span>
@@ -49,16 +49,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white" height="30">
   </span>
 
-<!--
-  
-  <span>
-    <img src="https://img.shields.io/badge/TensorFlow(Keras)-%23FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30">
-  </span>
-  <span>
-    <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="30">
-  </span>
-  <br>
--->
 
 
   <span>
@@ -73,4 +63,4 @@ Here are some ideas to get you started:
 </p>
 
 
-
+ -->
